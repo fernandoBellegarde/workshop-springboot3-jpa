@@ -1,4 +1,4 @@
-<body>
+n<body>
   <h1>🚀 workshop-springboot3-jpa</h1>
 
   <h2>📄 Sobre o projeto</h2>
@@ -26,7 +26,7 @@
 
   <h2>📥 Como clonar e rodar o projeto</h2>
   <pre><code># Clone o reposit&oacute;rio
-git clone https://github.com/seu-usuario/workshop-springboot3-jpa.git
+git clone https://github.com/fernandoBellegarde/workshop-springboot3-jpa.git
 
 # Acesse o diret&oacute;rio do projeto
 cd workshop-springboot3-jpa
